@@ -87,3 +87,9 @@ integrations/vibe/prompts/
 integrations/zcode/agents/
 integrations/dsh/agency-*/
 graphify-out/
+
+# Local Codex profiles and generated catalogs
+.codex/agents/
+.codex/install-report.json
+AGENCY-CATALOG.json
+AGENCY-CATALOG.md
